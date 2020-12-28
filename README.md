@@ -10,6 +10,8 @@ Or you can create [animated gifs](https://averagelinuxuser.com/make-gif-in-linux
 ![Whoa GIF](./pics/animatedGIF2.gif)
 
 You need 3D anaglyph glasses. Options:
-* [![anaglypgic glasses 1](./pics/glasses01.png)](https://www.amazon.com/gp/product/B07NQVZM72/)
-* [![anaglyphic glasses 2](./pics/glasses02.png)](https://www.amazon.com/gp/product/B0739L6QCP/)
+* [Black Anaglyphic Red Blue Cyan Stereoscopic Lens 3D Glasses](https://www.amazon.com/gp/product/B07NQVZM72/)
+[![anaglypgic glasses 1](./pics/glasses01.png)](https://www.amazon.com/gp/product/B07NQVZM72/)
+* [ZiYan- 50 Pairs - Flat- 3D Glasses Red and Cyan White Frame Anaglyph Cardboard](https://www.amazon.com/gp/product/B0739L6QCP/)
+[![anaglyphic glasses 2](./pics/glasses02.png)](https://www.amazon.com/gp/product/B0739L6QCP/)
 * Bucket for puking is optional
