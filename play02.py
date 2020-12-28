@@ -20,7 +20,7 @@ while True:
         plt.gcf().gca().add_artist(circle1)
 
     plt.axis('off')
-    plt.savefig(f"./tmp/im_{num:04d}.png")
+    #plt.savefig(f"./tmp/im_{num:04d}.png")
     plt.draw()
     plt.pause(0.01)        
 
