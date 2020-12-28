@@ -5,7 +5,7 @@ Anaglyphic glasses required to enjoy this 3D image :) (run 'python3 play.py'). T
 ![Whoa 1](./pics/Whoa.png)
 ![Whoa 2](./pics/Whoa02.png)
 
-Or if you want to see modified solar system (numbers modified in order to show something nice). 3D math is heavily flawed as well, just for fun purposes. Run 'python3 play03.py'.
+Or if you want to see modified [solar system](https://en.wikipedia.org/wiki/Solar_System) (numbers modified in order to show something nice). 3D math is heavily flawed as well, just for fun purposes. Run 'python3 play03.py'.
 
 ![Whoa solar GIF](./pics/solar.gif)
 
@@ -19,3 +19,5 @@ You need 3D anaglyph glasses. Options:
 * [ZiYan- 50 Pairs - Flat- 3D Glasses Red and Cyan White Frame Anaglyph Cardboard](https://www.amazon.com/gp/product/B0739L6QCP/)
 [![anaglyphic glasses 2](./pics/glasses02.png)](https://www.amazon.com/gp/product/B0739L6QCP/)
 * Bucket for puking is optional
+
+If you have glasses, you can check out also [Grand Teton National Park, Wyoming](https://github.com/loganbyers/anaglypher).
