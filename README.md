@@ -5,7 +5,7 @@ Anaglyphic glasses required to enjoy this 3D image :) (run 'python3 play.py'). T
 ![Whoa 1](./pics/Whoa.png)
 ![Whoa 2](./pics/Whoa02.png)
 
-Or you can create [animated gifs](https://averagelinuxuser.com/make-gif-in-linux-with-one-simple-command/) with [ImageMagick](https://imagemagick.org/index.php).
+Or you can create [animated gifs](https://averagelinuxuser.com/make-gif-in-linux-with-one-simple-command/) with [ImageMagick](https://imagemagick.org/index.php). (run 'python3 play02.py')
 
 ![Whoa GIF](./pics/animatedGIF2.gif)
 
