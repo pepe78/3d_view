@@ -5,6 +5,8 @@ Anaglyphic glasses required to enjoy this 3D image :) (run 'python3 play.py'). T
 ![Whoa 1](./pics/Whoa.png)
 ![Whoa 2](./pics/Whoa02.png)
 
+Or if you want to see modified solar system (numbers modified in order to show something nice). 3D math is heavily flawed as well, just for fun purposes. Run 'python3 play03.py'.
+
 Or you can create [animated gifs](https://averagelinuxuser.com/make-gif-in-linux-with-one-simple-command/) with [ImageMagick](https://imagemagick.org/index.php). (run 'python3 play02.py')
 
 ![Whoa GIF](./pics/animatedGIF2.gif)
