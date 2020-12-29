@@ -13,6 +13,10 @@ Or you can create [animated gifs](https://averagelinuxuser.com/make-gif-in-linux
 
 ![Whoa GIF](./pics/animatedGIF2.gif)
 
+run 'python3 play04.py'
+
+![Whoa 4](./pics/Whoa04.png)
+
 You need 3D anaglyph glasses. Options:
 * [Black Anaglyphic Red Blue Cyan Stereoscopic Lens 3D Glasses](https://www.amazon.com/gp/product/B07NQVZM72/)
 [![anaglypgic glasses 1](./pics/glasses01.png)](https://www.amazon.com/gp/product/B07NQVZM72/)
