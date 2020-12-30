@@ -21,6 +21,10 @@ run 'python3 play04b.py'
 
 ![Whoa 4b](./pics/rectangle.gif)
 
+or if you combine two pictures taken from different positions, you can get this (combineImages.py):
+
+![Whoa 2 images](./pics/final.jpg)
+
 You need 3D anaglyph glasses. Options:
 * [Black Anaglyphic Red Blue Cyan Stereoscopic Lens 3D Glasses](https://www.amazon.com/gp/product/B07NQVZM72/)
 [![anaglypgic glasses 1](./pics/glasses01.png)](https://www.amazon.com/gp/product/B07NQVZM72/)
