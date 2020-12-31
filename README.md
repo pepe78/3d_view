@@ -23,7 +23,9 @@ run 'python3 play04b.py'
 
 or if you combine two pictures taken from different positions, you can get this (combineImages.py):
 
-![Whoa 2 images](./pics/final.jpg)
+![Whoa 2 images](./pics/final02.jpg)
+
+![Whoa 2 images b](./pics/final.jpg)
 
 You need 3D anaglyph glasses. Options:
 * [Black Anaglyphic Red Blue Cyan Stereoscopic Lens 3D Glasses](https://www.amazon.com/gp/product/B07NQVZM72/)
