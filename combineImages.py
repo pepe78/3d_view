@@ -26,9 +26,9 @@ def combineTo3D(im1,im2):
       gray1 = (red1 * 0.299) + (green1 * 0.587) + (blue1 * 0.114)
       gray2 = (red2 * 0.299) + (green2 * 0.587) + (blue2 * 0.114)
 
-      new[i][j][0] = int(gray1 * 0.0 + gray2 * 1.0)
-      new[i][j][1] = int(gray1 * 1.0 + gray2 * 0.0)
-      new[i][j][2] = int(gray1 * 1.0 + gray2 * 0.0)
+      new[i][j][0] = int(gray2)
+      new[i][j][1] = int(gray1)
+      new[i][j][2] = int(gray1)
 
   return new
 
